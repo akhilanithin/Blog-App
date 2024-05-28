@@ -1,3 +1,4 @@
+![otp](https://github.com/akhilanithin/Blog-app/assets/122517142/8f062184-1e44-41f6-9983-90e0a8264de6)
 <H1 align ="center" > MERN BLOG  </h1>
 <h5  align ="center"> 
 Fullstack open source blogging application made with MongoDB, Express, React & Nodejs (MERN) </h5>
@@ -128,8 +129,12 @@ This project was created using the following technologies.
 
 ![Profile](https://github.com/akhilanithin/Blog-app/assets/122517142/138d08b5-adc3-4fea-858f-7458a474d7ac)
 
+![otp](https://github.com/akhilanithin/Blog-app/assets/122517142/319cdf23-504f-425e-9275-77de15f7f1d3)
 
-![Profile](https://github.com/akhilanithin/Blog-app/assets/122517142/138d08b5-adc3-4fea-858f-7458a474d7ac)
+
+[screen-capture.webm](https://github.com/akhilanithin/Blog-app/assets/122517142/8f9ff8f1-7619-4703-8eb6-d9e17cba7d55)
+
+
 
 
 

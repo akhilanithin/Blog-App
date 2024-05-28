@@ -1,4 +1,4 @@
-![otp](https://github.com/akhilanithin/Blog-app/assets/122517142/8f062184-1e44-41f6-9983-90e0a8264de6)
+
 <H1 align ="center" > MERN BLOG  </h1>
 <h5  align ="center"> 
 Fullstack open source blogging application made with MongoDB, Express, React & Nodejs (MERN) </h5>

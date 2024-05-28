@@ -129,6 +129,9 @@ This project was created using the following technologies.
 ![Profile](https://github.com/akhilanithin/Blog-app/assets/122517142/138d08b5-adc3-4fea-858f-7458a474d7ac)
 
 
+![Profile](https://github.com/akhilanithin/Blog-app/assets/122517142/138d08b5-adc3-4fea-858f-7458a474d7ac)
+
+
 
 
 

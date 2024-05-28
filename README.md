@@ -41,18 +41,18 @@ In the second terminal
 
 NODE_ENV = development
 PORT =5000
-URI =http://localhost:3000
-MONGO_URI =
-JWT_SECRET_KEY =
+URI =https://blog-server-o8t8.onrender.com/
+MONGO_URI ="mongodb+srv://akhilaanizham1994:akhila456@cluster0.k6j5qib.mongodb.net/blog?retryWrites=true&w=majority&appName=Cluster0"
+JWT_SECRET_KEY ="Secret"
 JWT_EXPIRE = 60m
 RESET_PASSWORD_EXPIRE = 3600000 
 
+
 # Nodemailer
 
-SMTP_HOST =smtp.gmail.com
-SMTP_PORT =587
-EMAIL_USERNAME = example@gmail.com
-EMAIL_PASS = your_password
+MAIL_HOST=your-smtp-host 
+MAIL_USER=your-email-address 
+MAIL_PASS=your-email-password = your_password
 ```
 
 
@@ -114,56 +114,26 @@ This project was created using the following technologies.
  
  ##  Screenshots 
  
+![login](https://github.com/akhilanithin/Blog-app/assets/122517142/d4692f82-cb0e-4e5f-9137-9f2f3ad2f4b7)
 
-![1](https://user-images.githubusercontent.com/111676859/226197211-8abc5de5-7659-4811-b28a-ef885de64267.png)
----- -
-![2](https://user-images.githubusercontent.com/111676859/226197288-1f0cf951-dd30-464f-b70a-10c449fe33b4.png)
---- - 
-![3](https://user-images.githubusercontent.com/111676859/226197295-e9525dd5-1346-4951-a1c8-d5620166d7aa.png)
---- - 
-![4](https://user-images.githubusercontent.com/111676859/226197298-ca0f5b6e-f523-4040-98a8-b92a17bbe22e.png)
---- - 
-![5](https://user-images.githubusercontent.com/111676859/226197303-5d8a1a39-07f7-409f-8614-12d0ca0b2836.png)
---- - 
-![6](https://user-images.githubusercontent.com/111676859/226197307-1d95a1f6-147a-4edb-b899-449c90c07713.png)
---- - 
-![7](https://user-images.githubusercontent.com/111676859/226197312-b7bf6ae6-2c05-4b1d-bc25-4262af3f04f2.png)
---- - 
-![8](https://user-images.githubusercontent.com/111676859/226197316-eb387e87-9690-44ca-b138-f15b03bed7d4.png)
---- - 
-![9](https://user-images.githubusercontent.com/111676859/226197324-dcbad05b-2283-4ef5-bae9-2da8d09d55c9.png)
---- - 
-![10](https://user-images.githubusercontent.com/111676859/226197329-025091a0-642b-4d68-ac4e-f365e0e78e82.png)
---- - 
-![11](https://user-images.githubusercontent.com/111676859/226197338-3e530bc6-e7bf-4e4a-9284-165f85be47d2.png)
+![Register](https://github.com/akhilanithin/Blog-app/assets/122517142/80c8e28f-b184-47c4-ba2f-a5a1a08b5866)
 
-## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+![fgpsw](https://github.com/akhilanithin/Blog-app/assets/122517142/a5b3bbd8-f539-412b-8a4c-0cf31cb1a238)
 
-## License
+![blogs](https://github.com/akhilanithin/Blog-app/assets/122517142/c190bfe6-7867-4793-857f-d5abf25eccad)
 
-MIT License
+![user](https://github.com/akhilanithin/Blog-app/assets/122517142/07db3dd4-bf74-4daf-9862-87f4c9406251)
 
-Copyright (c) 2022 Gilbert Hutapea
+![add blog](https://github.com/akhilanithin/Blog-app/assets/122517142/f3a39dc0-0c30-428d-abcc-14f7912e73c0)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+![Profile](https://github.com/akhilanithin/Blog-app/assets/122517142/138d08b5-adc3-4fea-858f-7458a474d7ac)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+
+
+
+
+
+
+
